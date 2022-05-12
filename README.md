@@ -2,15 +2,10 @@
 # lesson1
 # Introductory Knowledge of IT
  + Technical concepts need to know
+ + I understand it like this
 
--What is Client - Server model?
+ Many people do not know what is Front end developer? To put it simply, Front end is the use of HTML, CSS or Javascript programming languages ​​for programmers to design application or website interfaces for users.
 
-. Client server model is a well-known model on computer networks, popular and widely applied on Web sites today.
-
--What is domain? What is domain name?
-
-. Domain and hosting are the first factors that businesses and individuals think of when starting an online business.
-
-. A domain name is your website address, which is what people type into the URL bar of their browser to access your website.
-  
- + 
++ I want to learn Frontend programming to understand how to create a website, to work on creating a website.
++ I want to work within two months with the first salary of 5 million or 6 million. Because of my ability, I need to learn and have more experience to get the desired salary.
++ Plan to do more black frontend related websites. Then there are other jobs
